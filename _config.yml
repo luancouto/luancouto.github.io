@@ -1,17 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Luan couto - Desenvolvedor mobile [Android, Kotlin, Flutter, Dart]
+description:    "Documentacao de dicas e solucoes que encontro no dia-a-dia como programador."
+url:            "https://luancouto.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Luan Couto
+  url:          http://luancouto.com
+  email:        me@luancouto.com
 
 # Build settings
 markdown:       kramdown
