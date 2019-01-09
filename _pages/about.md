@@ -19,4 +19,5 @@ Documentacao de dicas e solucoes que encontro no dia-a-dia como programador.
 - ReactiveX
 - Bibliotecas e ferramentas.
 
-Qualquer duvida, entre em contato!
+Qualquer duvida, entre em [contato](mailto:me@luancouto.com)!
+
